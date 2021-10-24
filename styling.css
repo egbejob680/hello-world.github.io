@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+    background:linear-gradient(to  right,lightblue,white);
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    font-style: italic;
+    color:grey;
+}
+p{
+    
+    font-weight: 800;
+    color:grey;
+    font-style: italic;
+    margin-top: 50px;
+    
+}
+img{
+    padding: 20px auto 0;
+    
+}
+.school{
+    block-size: auto;
+}
